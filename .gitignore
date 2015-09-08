@@ -1,0 +1,4 @@
+*~
+*.pyc
+result/*
+doc/_build/*
