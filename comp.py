@@ -6,7 +6,7 @@ import matplotlib.ticker as tkr
 import os
 import pandas as pd
 import urbs
-import sys  gdgdfgdfgdf
+import sys
 
 # INIT
 
